@@ -6,7 +6,7 @@ Please refer to [coding-exercise.md](./coding-exercise.md) for the full problem 
 
 ## Submitting your solution
 
-Create you solution in a fork of this repository. Once you're ready to submit, please add dmanning-resilient as a collaborate on your private repository and send us a message.
+Create your solution in a fork of this repository. Once you're ready to submit, please add dmanning-resilient as a collaborator on your private repository and send us a message.
 
 ## Candidate Notes
 
